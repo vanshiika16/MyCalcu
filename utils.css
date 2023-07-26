@@ -1,0 +1,24 @@
+.text-center {
+  text-align: center;
+}
+
+.bg-skyblue {
+  background-color: skyblue;
+}
+
+.display-box {
+  font-family: 'Orbitron', sans-serif;
+  border: solid black 0.5px;
+}
+
+.mx-aut0 {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
